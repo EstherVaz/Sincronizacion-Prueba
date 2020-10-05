@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheStore.BL.EntidadesNegocio.customer" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAQAAAAAJAAAAAIAAAAAAAA=</HashCode>
+      <FileName>EntidadesNegocio\customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheStore.BL.EntidadesNegocio.GoldCustomer" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>EntidadesNegocio\GoldCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheStore.BL.EntidadesNegocio.SilverCustomer" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntidadesNegocio\SilverCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
