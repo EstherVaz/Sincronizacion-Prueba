@@ -24,10 +24,10 @@ namespace TheStore.Console
             var customers = listRepository.GetAll();
 
 
-            foreach(var customer in customers)
-            {
-                System.Console.WriteLine(customer.Name);
-            }
+            //foreach(var customer in customers)
+            //{
+            //    System.Console.WriteLine(customer.Name);
+            //}
         }
     }
 }
