@@ -78,16 +78,16 @@ namespace TheStore.BL.Repository
                 GetOrderItemsById(Orden.Id);
             return Orden;
         }
-        public bool Delete(int id)
-        {
-            var Order = Orders.FirstOrDefault(x => x.Id == id);
-            if (Order == null)
-            {
-                return false;
-            }
-            Orders.Remove(Order);
-            return true;
+        //public bool Delete(int id)
+        //{
+        //    var Order = Orders.FirstOrDefault(x => x.Id == id);
+        //    if (Order == null)
+        //    {
+        //        return false;
+        //    }
+        //    Orders.Remove(Order);
+        //    return true;
 
-        }
+        //}
     }
 }
